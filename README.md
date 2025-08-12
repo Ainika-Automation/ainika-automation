@@ -1,6 +1,6 @@
-# Hi there! 👋 Welcome to Ainika Automation!
+# Hi there! 👋 Welcome
 
-## 🤖 AI Automation Expert & Full-Stack Developer
+## 🤖 I am AI Automation and Custom Software Developer: Zapier| n8n| Figma| Python| Django| PostgreSQL| Docker
 
 Welcome to my GitHub profile! I specialize in creating intelligent automation solutions and building secure, custom web applications. I transform complex business processes into streamlined, automated workflows while developing robust web platforms.
 
@@ -34,11 +34,9 @@ Welcome to my GitHub profile! I specialize in creating intelligent automation so
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ### ☁️ Cloud & APIs
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/-Webhooks-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
@@ -72,7 +70,7 @@ Welcome to my GitHub profile! I specialize in creating intelligent automation so
 - **API Integrations** - Connecting disparate systems seamlessly
 - **Data Processing** - Automated data transformation and migration
 
-### 🌐 **Web Development**
+### 🌐 **Custom Development**
 - **Custom Django Applications** - Secure, scalable web platforms
 - **Database Architecture** - Optimized MySQL schemas and queries
 - **User Authentication** - Secure login systems with role-based access
