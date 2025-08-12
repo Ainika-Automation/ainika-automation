@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome
 
-## 🤖 I am AI Automation and Custom Software Developer: Zapier| n8n| Figma| Python| Django| PostgreSQL| Docker
+## 🤖 I am an AI Automation and Custom Software Developer: Zapier| n8n| Figma| Python| Django| PostgreSQL| Docker
 
 Welcome to my GitHub profile! I specialize in creating intelligent automation solutions and building secure, custom web applications. I transform complex business processes into streamlined, automated workflows while developing robust web platforms.
 
