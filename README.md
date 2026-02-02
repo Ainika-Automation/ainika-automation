@@ -8,7 +8,7 @@
 
 🌐We always try to develop everything using Python and essential tools, minimizing third-party APIs to reduce costs and improve long-term scalability. Empowering you and your business to evolve in the AI-Vive era globally.
 
-🤖Our expertise spans advanced, future-ready technologies including n8n, Python, Django, PostgreSQL, REST API, React Native, Docker, LangChain, Pinecone, RAG, Redis, Celery, Tailwind, JavaScript, AI tools, Machine Learning, LLMs, Adobe products etc. — enabling secure, scalable, and intelligent systems built for performance, innovation, and adapt with new era.
+🤖Our expertise spans advanced, future-ready technologies including n8n, Python, Django, FastAPI, PostgreSQL, React Native, Next.js, Tailwind, JavaScript, LangChain, LangGraph, Pinecone, RAG, Redis, Celery, Temporal, AI, ML, LLMs, Robotics, Twilio, Docker, Kubernetes, Cloudflare etc. — enabling secure, scalable, and intelligent systems built for performance, innovation, and adapt with new era.
 
 🧩 What we Offer:
 
@@ -92,7 +92,7 @@ Integrate speech-to-text and voice-controlled AI chat systems
 
 ✅ Full-Cycle Development – Design → Build → Deploy → Maintain.
 
-✅ Dedicated Support – 2 months free service & support
+✅ Dedicated Support – 3 months free service & support
 
 ✅ Flexible Engagement – your working time!
 
